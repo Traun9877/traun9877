@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--# 💫 About Me:
+
+ 💫 About Me:
 🔭 I’m currently preparing for Data Science, AI/ML, and Data Analytics internship and full-time opportunities while building real-world AI projects.<br><br>👯 I’m looking to collaborate on Machine Learning, NLP, Generative AI, and Data Analytics projects.<br><br>🤝 I’m looking for internship and entry-level opportunities in Data Science, AI/ML, and Analytics.<br><br>🌱 I’m currently learning Deep Learning, TensorFlow, LangChain, RAG Systems, and AI Agent Development.<br><br>💬 Ask me about Python, Machine Learning, Data Analytics, Power BI, NLP, and Generative AI.<br><br>⚡ Fun fact: I enjoy turning ideas into AI-powered solutions and have built multiple end-to-end AI and full-stack projects during my academic journey.
 
 
